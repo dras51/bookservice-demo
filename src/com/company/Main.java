@@ -44,6 +44,11 @@ public class Main {
 
         System.out.println(newlist);
 
+
 //        System.out.println(arrayList);
+    }
+
+    void add() {
+        //do some add operations
     }
 }
