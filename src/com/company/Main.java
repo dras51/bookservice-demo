@@ -51,4 +51,8 @@ public class Main {
     void add() {
         //do some add operations
     }
+
+    void subtract() {
+        //Do some subtract actions
+    }
 }
